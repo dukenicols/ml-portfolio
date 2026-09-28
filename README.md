@@ -12,5 +12,6 @@ copied from elsewhere.
 
 | # | Project | Folder | Post |
 |---|---------|--------|------|
+| 1 | EDA Portfolio | [`01-eda-portfolio`](01-eda-portfolio) | [nicolasduque.com/blog/eda-portfolio](https://nicolasduque.com/blog/eda-portfolio) |
 
 _(The table fills in as projects land.)_
